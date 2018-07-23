@@ -1,0 +1,48 @@
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://www.Ali4ever.com/snap/Snap/snapchat++.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://www.Ali4ever.com/snap/Images/snp.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://www.Ali4ever.com/snap/Images/snp.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.sa-help.snapPlus</string>
+				<key>bundle-version</key>
+				<string>9.31.1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>Snapchat++</string>
+				<key>title</key>
+				<string> www.Ali4ever.com , سناب شات بلس يدعم الاشعارات , من تطوير علي فور ايفر ,
+</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
