@@ -10,7 +10,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.Ali4ever.com/snap/Snap/Snapchat++.ipa</string>
+					<string>https://github.com/slayierx/ALI/blob/master/Snapchat++.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -38,7 +38,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Snapchat++</string>
+				<string>SnapPlus</string>
 				<key>title</key>
 				<string> www.Ali4ever.com , سناب شات بلس يدعم الاشعارات , من تطوير علي فور ايفر ,
 </string>
